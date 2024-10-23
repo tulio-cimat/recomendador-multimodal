@@ -1,0 +1,1 @@
+Este es un piloto de un recomnedador mmusical multimodal, puede recibir tres tipos de entradas, archivos mp3, imagenes o texto que  indique artista y canción sobre la cual se quiere realizar la recomendacióon
